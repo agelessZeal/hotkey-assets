@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FBD52E;}
+</style>
+<g id="surface1">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-149.48" y1="372.234" x2="-149.48" y2="404.234" gradientTransform="matrix(6.25 0 0 6.25 1034.25 -2326.5625)">
+		<stop  offset="0" style="stop-color:#3286FF"/>
+		<stop  offset="1" style="stop-color:#0F2478"/>
+	</linearGradient>
+	<path class="st0" d="M100,199.9c55.3,0,100-44.7,100-100s-44.7-100-100-100S0,44.7,0,99.9S44.7,199.9,100,199.9z"/>
+	<path class="st1" d="M100,61.4c7.7,0,14-6.3,14-14s-6.3-14-14-14s-14,6.3-14,14S92.3,61.4,100,61.4z"/>
+	<path class="st1" d="M47.5,113.9c7.7,0,14-6.3,14-14s-6.3-14-14-14s-14,6.3-14,14C33.5,107.6,39.7,113.9,47.5,113.9z"/>
+	<path class="st1" d="M152.5,113.9c7.7,0,14-6.3,14-14s-6.3-14-14-14c-7.7,0-14,6.3-14,14S144.8,113.9,152.5,113.9z"/>
+	<path class="st1" d="M100,138.4c-7.7,0-14,6.3-14,14c0,7.7,6.3,14,14,14s14-6.3,14-14C114,144.7,107.7,138.4,100,138.4z"/>
+	<path class="st1" d="M63.2,68.5c4.8,0,8.8-3.9,8.8-8.8S68,51,63.2,51s-8.8,3.9-8.8,8.8C54.5,64.5,58.4,68.5,63.2,68.5z"/>
+	<path class="st1" d="M136.8,131.4c-4.8,0-8.8,3.9-8.8,8.8s3.9,8.8,8.8,8.8s8.8-3.9,8.8-8.8C145.5,135.4,141.6,131.4,136.8,131.4z"
+		/>
+	<path class="st1" d="M136.7,68.5c4.8,0,8.8-3.9,8.8-8.8s-3.9-8.8-8.8-8.8c-4.8,0-8.8,3.9-8.8,8.8C127.9,64.5,131.9,68.5,136.7,68.5
+		z"/>
+	<path class="st1" d="M63.3,131.4c-4.8,0-8.8,3.9-8.8,8.8s3.9,8.8,8.8,8.8c4.8,0,8.8-3.9,8.8-8.8C72.1,135.4,68.1,131.4,63.3,131.4z
+		"/>
+	<path class="st1" d="M86,99.9c0,7.7,6.3,14,14,14s14-6.3,14-14s-6.3-14-14-14C92.3,86,86,92.2,86,99.9z"/>
+</g>
+<path class="st2" d="M263.4-7.6"/>
+</svg>

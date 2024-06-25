@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FBD52E;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g id="surface1_00000066475094778492874230000000461473635953375419_">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="2.861023e-06" y1="99.89" x2="200" y2="99.89" gradientTransform="matrix(1 0 0 -1 0 199.89)">
+		<stop  offset="0" style="stop-color:#3756FC"/>
+		<stop  offset="1" style="stop-color:#052CFB"/>
+	</linearGradient>
+	<path class="st0" d="M200,100c0,55.3-44.8,100.1-100,100.1S0,155.3,0,100S44.7-0.1,100-0.1S200,44.7,200,100z"/>
+</g>
+<path class="st1" d="M263.4-7.6"/>
+<g>
+	<polygon class="st2" points="143.7,46.5 117.2,46.5 87.8,85.3 87.8,46.2 63.5,46.2 63.5,131.7 88,131.7 88.3,92.5 117.8,131.7 
+		147.5,131.7 113.1,85.6 	"/>
+	<circle class="st2" cx="75.8" cy="152.3" r="12.8"/>
+</g>
+</svg>
